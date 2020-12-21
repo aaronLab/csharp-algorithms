@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckCrossingTheBridge", "TruckCrossingTheBridge\TruckCrossingTheBridge.csproj", "{E5208630-EA85-43B0-959B-6FEED318D4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5208630-EA85-43B0-959B-6FEED318D4AF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E5208630-EA85-43B0-959B-6FEED318D4AF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E5208630-EA85-43B0-959B-6FEED318D4AF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E5208630-EA85-43B0-959B-6FEED318D4AF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BF7774-A0DA-477E-991B-D36E9B27270F}
+	EndGlobalSection
+EndGlobal
